@@ -1,0 +1,6 @@
+py google-cloud-sdk\bin\dev_appserver.py D:\ROHIT\TE_Assignment_SEM_II\CCL\A1
+py google-cloud-sdk\bin\dev_appserver.py <folder_path>
+gcloud components update
+pip install webapp
+
+cd google-cloud-sdk\bin python dev_appserver.py D:\ROHIT\TE_Assignment_SEM_II\CCL\A1
